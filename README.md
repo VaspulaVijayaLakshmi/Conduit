@@ -1,3 +1,13 @@
+Conduit (Spring Boot version) – RealWorld example app
+GitHub
+
+Features: Medium-like blogging platform.
+
+Good for: Improving API endpoints, adding tests, integrating new features.
+
+
+
+
 # ![RealWorld Example App using Kotlin and Spring](example-logo.png)
 
 [![Actions](https://github.com/gothinkster/spring-boot-realworld-example-app/workflows/Java%20CI/badge.svg)](https://github.com/gothinkster/spring-boot-realworld-example-app/actions)
